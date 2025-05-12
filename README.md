@@ -20,3 +20,5 @@ npm run make
 4. 按下「轉換」按鈕，完成後即可在輸出資料夾中看到 JPG 檔。
 
 ### 範例
+
+![Screenshot 2025-05-11 223027](https://github.com/user-attachments/assets/b36d7df6-8525-46e0-ad4a-635122b01871)
